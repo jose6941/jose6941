@@ -63,14 +63,10 @@ Sou estudante de Engenharia da Computação no Instituto Federal de São Paulo �
 
 ### 📊 Estatísticas
 
-<p>
-  
-<img 
-      align="left" 
-      alt="GitHub Stats" 
-      height="200" 
-      style="padding-right: 20px;"
-      src="https://github-readme-stats.vercel.app/api/top-langs/?username=jose6941&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9" 
+<p align="center">
+  <img 
+    alt="GitHub Stats" 
+    height="200" 
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=jose6941&theme=tokyonight&custom_title=Tecnologias&langs_count=9" 
   />
-
 </p>
