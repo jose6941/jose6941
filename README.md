@@ -6,7 +6,15 @@
 
 Sou estudante de Engenharia da Computação no Instituto Federal de São Paulo – Campus Birigui, apaixonado por desenvolvimento web e soluções digitais. Desde o início da graduação, venho me dedicando ativamente à programação, participando de projetos acadêmicos, pessoais e colaborativos que reforçam minha experiência prática com tecnologias modernas. Também participei de maratonas de programação como o InterIF, onde desenvolvi ainda mais minhas habilidades de raciocínio lógico, trabalho em equipe e resolução de problemas. Gosto de transformar ideias em soluções reais e acredito no poder da tecnologia para impactar positivamente a vida das pessoas. Busco oportunidades como desenvolvedor web — seja em estágios, vagas júnior ou projetos colaborativos — que me desafiem e me permitam crescer ao lado de pessoas inspiradoras.
 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="20"/> [LinkedIn](www.linkedin.com/in/josé-victor-souza-195a46369) • <img src="https://img.icons8.com/fluency/20/gmail-new.png"/> [Gmail](josevictor.souza009@gmail.com)
+<p align="left">
+  <a href="www.linkedin.com/in/josé-victor-souza-195a46369 target="_blank">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="35" />
+  </a>
+  &nbsp;&nbsp;
+  <a href="josevictor.souza009@gmail.com">
+    <img src="https://img.icons8.com/fluency/35/gmail-new.png" />
+  </a>
+</p>
 
 ---
 
