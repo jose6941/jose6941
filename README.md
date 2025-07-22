@@ -28,14 +28,17 @@ Sou estudante de Engenharia da Computação no Instituto Federal de São Paulo �
 
 ### 📊 Estatísticas
 
-<p align="center" gap="20px">
+<br/>
+
+<p align="center">
   <img 
     height="200" 
     src="https://github-readme-stats.vercel.app/api/top-langs/?username=jose6941&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9" 
   />
+  &nbsp;&nbsp;&nbsp;
   <img 
     height="200" 
     src="https://github-readme-streak-stats.herokuapp.com/?user=jose6941&theme=tokyonight&custom_title=Streaks" 
   />
-</p>  
+</p>
 
