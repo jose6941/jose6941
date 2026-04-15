@@ -11,36 +11,19 @@ Focado no desenvolvimento de sistemas web escaláveis e soluções em Inteligên
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:josevictor.souza009@gmail.com)
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/jose6941)
 
-![Profile Views](https://komarev.com/ghpvc/?username=jose6941&color=blueviolet&style=for-the-badge&label=PROFILE+VIEWS)
-
 </div>
 
 ---
 
 ## Sobre Mim
 
-```python
-class Developer:
-    def __init__(self):
-        self.name         = "José Victor de Souza"
-        self.role         = "Software Developer"
-        self.education    = "Computer Engineering — IFSP Birigui (10º semestre)"
-        self.focus        = ["Scalable Web Systems", "Artificial Intelligence", "Computer Vision"]
-        self.research     = ["Neural Networks for Electrical Fault Diagnosis",
-                             "Computer Vision Systems"]
-        self.competitions = ["InterIF Programming Marathon"]
-        self.currently    = "Building elegant solutions at the intersection of web & AI"
+Sou estudante de Engenharia da Computação, atualmente no 10º semestre, com experiência no desenvolvimento de aplicações utilizando tecnologias modernas. Minha trajetória acadêmica e profissional é marcada pela construção de soluções que integram eficiência técnica e experiência do usuário, com ênfase no ecossistema JavaScript, PHP e Python.
 
-    def say_hi(self):
-        print("Thanks for visiting! Let's build something amazing.")
-
-me = Developer()
-me.say_hi()
-```
+Possuo experiência em projetos de Iniciação Científica voltados para o diagnóstico de falhas em ativos elétricos via redes neurais e no desenvolvimento de sistemas de visão computacional. Minha participação em maratonas de programação como o InterIF reflete meu compromisso com a resolução de problemas complexos e a otimização de algoritmos.
 
 ---
 
-## 🛠️ Stack Tecnológica
+## Stack Tecnológica
 
 <div align="center">
 
@@ -50,8 +33,7 @@ me.say_hi()
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 
-### Backend & Runtime
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+### Backend 
 ![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
 ![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
@@ -66,7 +48,7 @@ me.say_hi()
 
 ---
 
-## 📊 Estatísticas do GitHub
+## Estatísticas do GitHub
 
 <div align="center">
 
@@ -126,8 +108,5 @@ me.say_hi()
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:24243e,50:302b63,100:0f0c29&height=120&section=footer&animation=fadeIn" width="100%"/>
 
-**"First, solve the problem. Then, write the code."** — *John Johnson*
-
-⭐ Se algum projeto te ajudou, considere deixar uma estrela!
 
 </div>
