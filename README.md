@@ -30,7 +30,7 @@ Possuo experiência em projetos de Iniciação Científica voltados para o diagn
 ---
 
 ### Linguagens e Tecnologias
-
+<br/>
 <div style="border: 1px solid #444; padding: 15px; border-radius: 0px; display: inline-block; width: 100%;">
   <p align="left">
     <img alt="HTML" title="HTML" width="45px" style="border: 1px solid #333; border-radius: 0px; padding: 5px; margin-right: 5px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" />
@@ -45,7 +45,7 @@ Possuo experiência em projetos de Iniciação Científica voltados para o diagn
 </div>
 
 ---
-
+<br/>
 ### Estatísticas e Desempenho
 
 <p align="center">
