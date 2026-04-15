@@ -1,10 +1,11 @@
-<div align="center">
+# José Victor de Souza
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=200&section=header&text=José%20Victor%20de%20Souza&fontSize=42&fontColor=ffffff&fontAlignY=38&desc=Software%20Developer%20%7C%20Computer%20Engineering%20%7C%20AI%20Enthusiast&descSize=16&descAlignY=58&animation=fadeIn" width="100%" />
+<img src="https://images.unsplash.com/photo-1517694712202-14dd9538aa97?ixlib=rb-1.2.1&auto=format&fit=crop&w=1350&h=300&q=80" width="100%" height="200" style="object-fit: cover;" alt="Banner Desenvolvimento Web" />
 
-</div>
+Desenvolvedor de Software | Graduando em Engenharia da Computação no IFSP Birigui
+Focado no desenvolvimento de sistemas web escaláveis e soluções em Inteligência Artificial.
 
-<div align="center">
+---
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jos%C3%A9-victor-souza-195a46369)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:josevictor.souza009@gmail.com)
