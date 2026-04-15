@@ -48,14 +48,12 @@ Possuo experiência em projetos de Iniciação Científica voltados para o diagn
 
 ### Estatísticas e Desempenho
 
-<picture>
-  <source
-    srcset="https://github-readme-stats.vercel.app/api?username=jose6941&show_icons=true&theme=dark"
-    media="(prefers-color-scheme: dark)"
-  />
-  <source
-    srcset="https://github-readme-stats.vercel.app/api?username=jose6941&show_icons=true"
-    media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
-  />
-  <img src="https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true" />
-</picture>
+<div align="left">
+  <img height="185" src="https://github-readme-stats.vercel.app/api?username=jose6941&show_icons=true&theme=tokyonight&count_private=true" />
+  <img height="185" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jose6941&theme=tokyonight&layout=compact&langs_count=8" />
+</div>
+
+<div align="rightr">
+  <img height="180" src="https://github-readme-streak-stats.herokuapp.com/?user=jose6941&theme=tokyonight" />
+  <img height="180" src="https://github-readme-activity-graph.vercel.app/graph?username=jose6941&theme=tokyo-night&area=true&hide_border=true" />
+</div>
