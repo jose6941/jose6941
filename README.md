@@ -29,19 +29,37 @@ Possuo experiência em projetos de Iniciação Científica voltados para o diagn
 
 ---
 
+---
+
 ### Linguagens e Tecnologias
 
-<p align="left">
-  <img alt="HTML" title="HTML" width="40px" style="border: 1px solid #444; border-radius: 5px; padding: 5px; margin-right: 5px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" />
-  <img alt="CSS" title="CSS" width="40px" style="border: 1px solid #444; border-radius: 5px; padding: 5px; margin-right: 5px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" />
-  <img alt="JavaScript" title="JavaScript" width="40px" style="border: 1px solid #444; border-radius: 5px; padding: 5px; margin-right: 5px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" />
-  <img alt="React" title="React" width="40px" style="border: 1px solid #444; border-radius: 5px; padding: 5px; margin-right: 5px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" />
-  <img alt="Laravel" title="Laravel" width="40px" style="border: 1px solid #444; border-radius: 5px; padding: 5px; margin-right: 5px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/laravel/laravel-original.svg" />
-  <img alt="Node.js" title="Node.js" width="40px" style="border: 1px solid #444; border-radius: 5px; padding: 5px; margin-right: 5px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original.svg" />
-  <img alt="Python" title="Python" width="40px" style="border: 1px solid #444; border-radius: 5px; padding: 5px; margin-right: 5px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" />
-  <img alt="Git" title="Git" width="40px" style="border: 1px solid #444; border-radius: 5px; padding: 5px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" />
-</p>
+<table border="0">
+  <tr>
+    <td width="50%" align="left" valign="top">
+      <p>
+        <img alt="HTML" title="HTML" width="45px" style="border: 1px solid #444; border-radius: 0px; padding: 8px; margin: 5px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" />
+        <img alt="CSS" title="CSS" width="45px" style="border: 1px solid #444; border-radius: 0px; padding: 8px; margin: 5px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" />
+        <img alt="JavaScript" title="JavaScript" width="45px" style="border: 1px solid #444; border-radius: 0px; padding: 8px; margin: 5px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" />
+        <img alt="React" title="React" width="45px" style="border: 1px solid #444; border-radius: 0px; padding: 8px; margin: 5px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" />
+      </p>
+      <p>
+        <img alt="Laravel" title="Laravel" width="45px" style="border: 1px solid #444; border-radius: 0px; padding: 8px; margin: 5px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/laravel/laravel-original.svg" />
+        <img alt="Node.js" title="Node.js" width="45px" style="border: 1px solid #444; border-radius: 0px; padding: 8px; margin: 5px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original.svg" />
+        <img alt="Python" title="Python" width="45px" style="border: 1px solid #444; border-radius: 0px; padding: 8px; margin: 5px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" />
+        <img alt="Git" title="Git" width="45px" style="border: 1px solid #444; border-radius: 0px; padding: 8px; margin: 5px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" />
+      </p>
+    </td>
+    <td width="50%" align="right" valign="top">
+      <img 
+        height="180" 
+        src="https://github-readme-stats.vercel.app/api/top-langs/?username=jose6941&theme=tokyonight&layout=compact&custom_title=Linguagens+Mais+Usadas&langs_count=8&hide_border=false" 
+        alt="Linguagens mais utilizadas"
+      />
+    </td>
+  </tr>
+</table>
 
+---
 ---
 
 ### Estatísticas e Desempenho
