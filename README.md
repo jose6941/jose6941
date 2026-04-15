@@ -35,31 +35,31 @@ Possuo experiência em projetos de Iniciação Científica voltados para o diagn
 
 ### Linguagens e Tecnologias
 
-<p align="left">
-  <img alt="HTML" title="HTML" width="45px" style="border: 1px solid #444; border-radius: 0px; padding: 5px; margin-right: 5px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" />
-  <img alt="CSS" title="CSS" width="45px" style="border: 1px solid #444; border-radius: 0px; padding: 5px; margin-right: 5px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" />
-  <img alt="JavaScript" title="JavaScript" width="45px" style="border: 1px solid #444; border-radius: 0px; padding: 5px; margin-right: 5px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" />
-  <img alt="React" title="React" width="45px" style="border: 1px solid #444; border-radius: 0px; padding: 5px; margin-right: 5px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" />
-  <img alt="Laravel" title="Laravel" width="45px" style="border: 1px solid #444; border-radius: 0px; padding: 5px; margin-right: 5px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/laravel/laravel-original.svg" />
-  <img alt="Node.js" title="Node.js" width="45px" style="border: 1px solid #444; border-radius: 0px; padding: 5px; margin-right: 5px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original.svg" />
-  <img alt="Python" title="Python" width="45px" style="border: 1px solid #444; border-radius: 0px; padding: 5px; margin-right: 5px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" />
-  <img alt="Git" title="Git" width="45px" style="border: 1px solid #444; border-radius: 0px; padding: 5px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" />
-</p>
+<div style="border: 1px solid #444; padding: 15px; border-radius: 0px; display: inline-block; width: 100%;">
+  <p align="left">
+    <img alt="HTML" title="HTML" width="45px" style="border: 1px solid #333; border-radius: 0px; padding: 5px; margin-right: 5px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" />
+    <img alt="CSS" title="CSS" width="45px" style="border: 1px solid #333; border-radius: 0px; padding: 5px; margin-right: 5px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" />
+    <img alt="JavaScript" title="JavaScript" width="45px" style="border: 1px solid #333; border-radius: 0px; padding: 5px; margin-right: 5px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" />
+    <img alt="React" title="React" width="45px" style="border: 1px solid #333; border-radius: 0px; padding: 5px; margin-right: 5px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" />
+    <img alt="Laravel" title="Laravel" width="45px" style="border: 1px solid #333; border-radius: 0px; padding: 5px; margin-right: 5px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/laravel/laravel-original.svg" />
+    <img alt="Node.js" title="Node.js" width="45px" style="border: 1px solid #333; border-radius: 0px; padding: 5px; margin-right: 5px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original.svg" />
+    <img alt="Python" title="Python" width="45px" style="border: 1px solid #333; border-radius: 0px; padding: 5px; margin-right: 5px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" />
+    <img alt="Git" title="Git" width="45px" style="border: 1px solid #333; border-radius: 0px; padding: 5px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" />
+  </p>
+</div>
 
 ---
 
 ### Estatísticas e Desempenho
 
 <div align="center">
-  <img height="180" src="https://github-readme-stats.vercel.app/api?username=jose6941&show_icons=true&theme=tokyonight&count_private=true" />
-  <img height="180" src="https://github-readme-streak-stats.herokuapp.com/?user=jose6941&theme=tokyonight" />
+  <img height="185" src="https://github-readme-stats.vercel.app/api?username=jose6941&show_icons=true&theme=tokyonight&count_private=true" />
+  <img height="185" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jose6941&theme=tokyonight&layout=compact&langs_count=8" />
 </div>
 
-<br/>
-
 <div align="center">
-  <img height="200" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jose6941&theme=tokyonight&layout=compact&langs_count=8" />
-  <img height="200" src="https://github-readme-activity-graph.vercel.app/graph?username=jose6941&theme=tokyo-night&area=true&hide_border=true" />
+  <img height="180" src="https://github-readme-streak-stats.herokuapp.com/?user=jose6941&theme=tokyonight" />
+  <img height="180" src="https://github-readme-activity-graph.vercel.app/graph?username=jose6941&theme=tokyo-night&area=true&hide_border=true" />
 </div>
 
 ---
