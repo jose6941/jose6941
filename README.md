@@ -5,41 +5,56 @@
 Desenvolvedor de Software | Graduando em Engenharia da Computação no IFSP Birigui
 Focado no desenvolvimento de sistemas web escaláveis e soluções em Inteligência Artificial.
 
-Sobre Mim
+---
+
+### Sobre Mim
 
 Sou estudante de Engenharia da Computação, atualmente no 10º semestre, com experiência no desenvolvimento de aplicações utilizando tecnologias modernas. Minha trajetória acadêmica e profissional é marcada pela construção de soluções que integram eficiência técnica e experiência do usuário, com ênfase no ecossistema JavaScript, PHP e Python.
 
 Possuo experiência em projetos de Iniciação Científica voltados para o diagnóstico de falhas em ativos elétricos via redes neurais e no desenvolvimento de sistemas de visão computacional. Minha participação em maratonas de programação como o InterIF reflete meu compromisso com a resolução de problemas complexos e a otimização de algoritmos.
 
-Contato e Conectividade
+---
+
+### Contato e Conectividade
 
 <p align="left">
   <a href="https://www.linkedin.com/in/jos%C3%A9-victor-souza-195a46369">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="35" alt="LinkedIn" />
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="35" alt="LinkedIn" style="border: 1px solid #444; border-radius: 5px; padding: 5px;" />
   </a>
   &nbsp;&nbsp;
   <a href="mailto:josevictor.souza009@gmail.com">
-    <img src="https://img.icons8.com/fluency/35/gmail-new.png" alt="Gmail" />
+    <img src="https://img.icons8.com/fluency/35/gmail-new.png" alt="Gmail" style="border: 1px solid #444; border-radius: 5px; padding: 5px;" />
   </a>
 </p>
 
-Linguagens e Tecnologias
+---
 
-<img align="left" alt="HTML" title="HTML" width="30px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" />
-<img align="left" alt="CSS" title="CSS" width="30px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" />
-<img align="left" alt="JavaScript" title="JavaScript" width="30px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" />
-<img align="left" alt="React" title="React" width="30px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" />
-<img align="left" alt="Laravel" title="Laravel" width="30px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/laravel/laravel-original.svg" />
-<img align="left" alt="Node.js" title="Node.js" width="30px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original.svg" />
-<img align="left" alt="Python" title="Python" width="30px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" />
-<img align="left" alt="Git" title="Git" width="30px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" />
+### Linguagens e Tecnologias
 
-<br/>
-<br/>
+<p align="left">
+  <img alt="HTML" title="HTML" width="40px" style="border: 1px solid #444; border-radius: 5px; padding: 5px; margin-right: 5px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" />
+  <img alt="CSS" title="CSS" width="40px" style="border: 1px solid #444; border-radius: 5px; padding: 5px; margin-right: 5px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" />
+  <img alt="JavaScript" title="JavaScript" width="40px" style="border: 1px solid #444; border-radius: 5px; padding: 5px; margin-right: 5px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" />
+  <img alt="React" title="React" width="40px" style="border: 1px solid #444; border-radius: 5px; padding: 5px; margin-right: 5px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" />
+  <img alt="Laravel" title="Laravel" width="40px" style="border: 1px solid #444; border-radius: 5px; padding: 5px; margin-right: 5px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/laravel/laravel-original.svg" />
+  <img alt="Node.js" title="Node.js" width="40px" style="border: 1px solid #444; border-radius: 5px; padding: 5px; margin-right: 5px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original.svg" />
+  <img alt="Python" title="Python" width="40px" style="border: 1px solid #444; border-radius: 5px; padding: 5px; margin-right: 5px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" />
+  <img alt="Git" title="Git" width="40px" style="border: 1px solid #444; border-radius: 5px; padding: 5px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" />
+</p>
 
-Estatísticas e Desempenho
+---
 
-As métricas abaixo consolidam minha produtividade técnica e o domínio das tecnologias aplicadas em meus repositórios.
+### Estatísticas e Desempenho
+
+As métricas abaixo consolidam minha produtividade técnica e o impacto das contribuições nos meus repositórios.
+
+<p align="center">
+  <img 
+    height="180" 
+    src="https://github-readme-stats.vercel.app/api?username=jose6941&show_icons=true&theme=tokyonight&count_private=true&hide_border=false" 
+    alt="Estatísticas Gerais"
+  />
+</p>
 
 <p align="center">
   <img 
@@ -54,3 +69,5 @@ As métricas abaixo consolidam minha produtividade técnica e o domínio das tec
     alt="Sequência de contribuições"
   />
 </p>
+
+---
