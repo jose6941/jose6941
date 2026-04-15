@@ -1,6 +1,6 @@
 # José Victor de Souza
 
-<img src="https://images.unsplash.com/photo-1517694712202-14dd9538aa97?ixlib=rb-1.2.1&auto=format&fit=crop&w=1350&h=300&q=80" width="100%" height="600" style="object-fit: cover;" alt="Banner Desenvolvimento Web" />
+<img src="https://images.unsplash.com/photo-1517694712202-14dd9538aa97?ixlib=rb-1.2.1&auto=format&fit=crop&w=1350&h=300&q=80" width="100%" height="1000" style="object-fit: cover;" alt="Banner Desenvolvimento Web" />
 
 ---
 
@@ -47,6 +47,8 @@ Possuo experiência em projetos de Iniciação Científica voltados para o diagn
 ---
 
 ### Estatísticas e Desempenho
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=jose694&commits_year=2020)
 
 <div align="left">
   <img height="185" src="https://github-readme-stats.vercel.app/api?username=jose6941&show_icons=true&theme=tokyonight&count_private=true" />
