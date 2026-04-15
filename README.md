@@ -2,11 +2,6 @@
 
 <img src="https://images.unsplash.com/photo-1517694712202-14dd9538aa97?ixlib=rb-1.2.1&auto=format&fit=crop&w=1350&h=300&q=80" width="100%" height="300" style="object-fit: cover;" alt="Banner Desenvolvimento Web" />
 
-Desenvolvedor de Software | Graduando em Engenharia da Computação no IFSP Birigui
-Focado no desenvolvimento de sistemas web escaláveis e soluções em Inteligência Artificial.
-
----
-
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jos%C3%A9-victor-souza-195a46369)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:josevictor.souza009@gmail.com)
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/jose6941)
@@ -17,13 +12,16 @@ Focado no desenvolvimento de sistemas web escaláveis e soluções em Inteligên
 
 ## Sobre Mim
 
+Desenvolvedor de Software | Graduando em Engenharia da Computação no IFSP Birigui
+Focado no desenvolvimento de sistemas web escaláveis e soluções em Inteligência Artificial.
+
 Sou estudante de Engenharia da Computação, atualmente no 10º semestre, com experiência no desenvolvimento de aplicações utilizando tecnologias modernas. Minha trajetória acadêmica e profissional é marcada pela construção de soluções que integram eficiência técnica e experiência do usuário, com ênfase no ecossistema JavaScript, PHP e Python.
 
 Possuo experiência em projetos de Iniciação Científica voltados para o diagnóstico de falhas em ativos elétricos via redes neurais e no desenvolvimento de sistemas de visão computacional. Minha participação em maratonas de programação como o InterIF reflete meu compromisso com a resolução de problemas complexos e a otimização de algoritmos.
 
 ---
 
-## Stack Tecnológica
+## Tecnológias
 
 <div align="center">
 
