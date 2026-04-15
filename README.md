@@ -45,9 +45,9 @@ Possuo experiência em projetos de Iniciação Científica voltados para o diagn
 </div>
 
 ---
-<br/>
-### Estatísticas e Desempenho
 
+### Estatísticas e Desempenho
+<br/>
 <p align="center">
   <img height="180" src="https://github-readme-streak-stats.herokuapp.com/?user=jose6941&theme=tokyonight" alt="Sequência de Contribuições" />
   &nbsp;
