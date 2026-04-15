@@ -1,6 +1,6 @@
 # José Victor de Souza
 
-<img src="https://images.unsplash.com/photo-1517694712202-14dd9538aa97?ixlib=rb-1.2.1&auto=format&fit=crop&w=1350&h=300&q=80" width="100%" height="1000" style="object-fit: cover;" alt="Banner Desenvolvimento Web" />
+<img src="https://images.unsplash.com/photo-1517694712202-14dd9538aa97?ixlib=rb-1.2.1&auto=format&fit=crop&w=1950&h=600&q=80" width="100%" height="400" style="object-fit: cover; object-position: center;" alt="Banner Desenvolvimento Web Profissional" />
 
 ---
 
@@ -49,15 +49,7 @@ Possuo experiência em projetos de Iniciação Científica voltados para o diagn
 ### Estatísticas e Desempenho
 
 <p align="center">
-  <img height="180" src="https://github-readme-stats.vercel.app/api?username=jose6941&show_icons=true&theme=tokyonight&count_private=true&cache_seconds=1800" alt="Estatísticas de José" />
-  &nbsp;
-  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jose6941&theme=tokyonight&layout=compact&langs_count=8&cache_seconds=1800" alt="Linguagens de José" />
-</p>
-
-<p align="center">
   <img height="180" src="https://github-readme-streak-stats.herokuapp.com/?user=jose6941&theme=tokyonight" alt="Sequência de Contribuições" />
   &nbsp;
   <img height="180" src="https://github-readme-activity-graph.vercel.app/graph?username=jose6941&theme=tokyo-night&area=true&hide_border=true" alt="Gráfico de Atividade" />
 </p>
-
----
