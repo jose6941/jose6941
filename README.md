@@ -1,13 +1,13 @@
 # José Victor de Souza
 
-<img src="https://images.unsplash.com/photo-1517694712202-14dd9538aa97?ixlib=rb-1.2.1&auto=format&fit=crop&w=1350&h=300&q=80" width="100%" height="250" style="object-fit: cover;" alt="Banner Desenvolvimento Web" />
-
-Desenvolvedor de Software | Graduando em Engenharia da Computação no IFSP Birigui
-Focado no desenvolvimento de sistemas web escaláveis e soluções em Inteligência Artificial.
+<img src="https://images.unsplash.com/photo-1517694712202-14dd9538aa97?ixlib=rb-1.2.1&auto=format&fit=crop&w=1350&h=300&q=80" width="100%" height="400" style="object-fit: cover;" alt="Banner Desenvolvimento Web" />
 
 ---
 
 ### Sobre Mim
+
+Desenvolvedor de Software | Graduando em Engenharia da Computação no IFSP Birigui
+Focado no desenvolvimento de sistemas web escaláveis e soluções em Inteligência Artificial.
 
 Sou estudante de Engenharia da Computação, atualmente no 10º semestre, com experiência no desenvolvimento de aplicações utilizando tecnologias modernas. Minha trajetória acadêmica e profissional é marcada pela construção de soluções que integram eficiência técnica e experiência do usuário, com ênfase no ecossistema JavaScript, PHP e Python.
 
@@ -61,14 +61,3 @@ Possuo experiência em projetos de Iniciação Científica voltados para o diagn
   <img height="180" src="https://github-readme-streak-stats.herokuapp.com/?user=jose6941&theme=tokyonight" />
   <img height="180" src="https://github-readme-activity-graph.vercel.app/graph?username=jose6941&theme=tokyo-night&area=true&hide_border=true" />
 </div>
-
----
-
-### Áreas de Pesquisa & Interesse
-
-| Inteligência Artificial | Desenvolvimento Web | Visão Computacional |
-|:---:|:---:|:---:|
-| Redes Neurais para diagnóstico | Sistemas web escaláveis | Detecção e reconhecimento |
-| Machine Learning | APIs RESTful | OpenCV com Python |
-
----
