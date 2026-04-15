@@ -13,7 +13,6 @@ Sou estudante de Engenharia da Computação, atualmente no 10º semestre, com ex
 
 Possuo experiência em projetos de Iniciação Científica voltados para o diagnóstico de falhas em ativos elétricos via redes neurais e no desenvolvimento de sistemas de visão computacional. Minha participação em maratonas de programação como o InterIF reflete meu compromisso com a resolução de problemas complexos e a otimização de algoritmos.
 
-<br/>
 
 <p align="left">
   <a href="https://www.linkedin.com/in/jos%C3%A9-victor-souza-195a46369">
@@ -33,7 +32,7 @@ Possuo experiência em projetos de Iniciação Científica voltados para o diagn
 
 ### Linguagens e Tecnologias
 <br/>
-<div style="border: 1px solid #444; padding: 15px; border-radius: 0px; display: inline-block; width: 100%;gap: 10">
+<div style="border: 1px solid #444; padding: 30px; border-radius: 0px; display: inline-block; width: 100%">
   <p align="left">
     <img alt="HTML" title="HTML" width="45px" style="border: 1px solid #333; border-radius: 0px; padding: 5px; margin-right: 5px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" />
     <img alt="CSS" title="CSS" width="45px" style="border: 1px solid #333; border-radius: 0px; padding: 5px; margin-right: 5px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" />
