@@ -44,7 +44,6 @@ Possuo experiência em projetos de Iniciação Científica voltados para o diagn
     <img alt="Git" title="Git" width="45px" style="border: 1px solid #333; border-radius: 0px; padding: 5px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" />
   </p>
 </div>
-<br/>
 
 ---
 
