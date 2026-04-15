@@ -1,6 +1,6 @@
 # José Victor de Souza
 
-<img src="https://images.unsplash.com/photo-1517694712202-14dd9538aa97?ixlib=rb-1.2.1&auto=format&fit=crop&w=1350&h=300&q=80" width="100%" height="400" style="object-fit: cover;" alt="Banner Desenvolvimento Web" />
+<img src="https://images.unsplash.com/photo-1517694712202-14dd9538aa97?ixlib=rb-1.2.1&auto=format&fit=crop&w=1350&h=300&q=80" width="100%" height="600" style="object-fit: cover;" alt="Banner Desenvolvimento Web" />
 
 ---
 
@@ -12,10 +12,6 @@ Focado no desenvolvimento de sistemas web escaláveis e soluções em Inteligên
 Sou estudante de Engenharia da Computação, atualmente no 10º semestre, com experiência no desenvolvimento de aplicações utilizando tecnologias modernas. Minha trajetória acadêmica e profissional é marcada pela construção de soluções que integram eficiência técnica e experiência do usuário, com ênfase no ecossistema JavaScript, PHP e Python.
 
 Possuo experiência em projetos de Iniciação Científica voltados para o diagnóstico de falhas em ativos elétricos via redes neurais e no desenvolvimento de sistemas de visão computacional. Minha participação em maratonas de programação como o InterIF reflete meu compromisso com a resolução de problemas complexos e a otimização de algoritmos.
-
----
-
-### Contato e Conectividade
 
 <p align="left">
   <a href="https://www.linkedin.com/in/jos%C3%A9-victor-souza-195a46369">
@@ -52,12 +48,14 @@ Possuo experiência em projetos de Iniciação Científica voltados para o diagn
 
 ### Estatísticas e Desempenho
 
-<div align="center">
-  <img height="185" src="https://github-readme-stats.vercel.app/api?username=jose6941&show_icons=true&theme=tokyonight&count_private=true" />
-  <img height="185" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jose6941&theme=tokyonight&layout=compact&langs_count=8" />
-</div>
-
-<div align="center">
-  <img height="180" src="https://github-readme-streak-stats.herokuapp.com/?user=jose6941&theme=tokyonight" />
-  <img height="180" src="https://github-readme-activity-graph.vercel.app/graph?username=jose6941&theme=tokyo-night&area=true&hide_border=true" />
-</div>
+<picture>
+  <source
+    srcset="https://github-readme-stats.vercel.app/api?username=jose6941&show_icons=true&theme=dark"
+    media="(prefers-color-scheme: dark)"
+  />
+  <source
+    srcset="https://github-readme-stats.vercel.app/api?username=jose6941&show_icons=true"
+    media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
+  />
+  <img src="https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true" />
+</picture>
