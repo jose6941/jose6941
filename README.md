@@ -1,7 +1,7 @@
-# 👨🏻‍💻 José Victor de Souza
+# José Victor de Souza
 
-🎓 Estudante de Engenharia da Computação – IFSP Birigui  
-💻 Focado em projetos com React, Node.js, Python e IA  
+Estudante de Engenharia da Computação – IFSP Birigui  
+Focado em projetos com React, Node.js, Python e IA  
 
 
 Sou estudante de Engenharia da Computação no Instituto Federal de São Paulo – Campus Birigui, apaixonado por desenvolvimento web e soluções digitais. Desde o início da graduação, venho me dedicando ativamente à programação, participando de projetos acadêmicos, pessoais e colaborativos que reforçam minha experiência prática com tecnologias modernas. 
@@ -20,7 +20,7 @@ Também participei de maratonas de programação como o InterIF, onde desenvolvi
 
 ---
 
-### 🧠 Linguagens e Tecnologias
+### Linguagens e Tecnologias
 
 <img align="left" alt="HTML" title="HTML" width="30px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" />
 <img align="left" alt="CSS" title="CSS" width="30px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" />
@@ -36,7 +36,7 @@ Também participei de maratonas de programação como o InterIF, onde desenvolvi
 
 ---
 
-### 📊 Estatísticas
+### Estatísticas
 
 <br/>
 
