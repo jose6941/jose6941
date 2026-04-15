@@ -1,6 +1,6 @@
 # José Victor de Souza
 
-<img src="https://images.unsplash.com/photo-1517694712202-14dd9538aa97?ixlib=rb-1.2.1&auto=format&fit=crop&w=1950&h=600&q=80" width="100%" height="400" style="object-fit: cover; object-position: center;" alt="Banner Desenvolvimento Web Profissional" />
+<img src="https://images.unsplash.com/photo-1517694712202-14dd9538aa97?ixlib=rb-1.2.1&auto=format&fit=crop&w=1950&h=600&q=80" width="100%" height="500" style="object-fit: cover; object-position: center;" alt="Banner Desenvolvimento Web Profissional" />
 
 ---
 
@@ -49,7 +49,7 @@ Possuo experiência em projetos de Iniciação Científica voltados para o diagn
 ### Estatísticas e Desempenho
 <br/>
 <p align="center">
-  <img height="180" src="https://github-readme-streak-stats.herokuapp.com/?user=jose6941&theme=tokyonight" alt="Sequência de Contribuições" />
+  <img height="150" src="https://github-readme-streak-stats.herokuapp.com/?user=jose6941&theme=tokyonight" alt="Sequência de Contribuições" />
   &nbsp;
-  <img height="180" src="https://github-readme-activity-graph.vercel.app/graph?username=jose6941&theme=tokyo-night&area=true&hide_border=true" alt="Gráfico de Atividade" />
+  <img height="150" src="https://github-readme-activity-graph.vercel.app/graph?username=jose6941&theme=tokyo-night&area=true&hide_border=true" alt="Gráfico de Atividade" />
 </p>
