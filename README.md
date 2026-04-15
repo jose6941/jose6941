@@ -1,15 +1,15 @@
 # José Victor de Souza
 
 Estudante de Engenharia da Computação – IFSP Birigui  
-Focado em projetos com React, Node.js, Python e IA  
+Focado em projetos com Laravel, React, Python e IA  
 
 
 Sou estudante de Engenharia da Computação no Instituto Federal de São Paulo – Campus Birigui, apaixonado por desenvolvimento web e soluções digitais. Desde o início da graduação, venho me dedicando ativamente à programação, participando de projetos acadêmicos, pessoais e colaborativos que reforçam minha experiência prática com tecnologias modernas. 
 
-Também participei de maratonas de programação como o InterIF, onde desenvolvi ainda mais minhas habilidades de raciocínio lógico, trabalho em equipe e resolução de problemas. Gosto de transformar ideias em soluções reais e acredito no poder da tecnologia para impactar positivamente a vida das pessoas. Busco oportunidades como desenvolvedor web — seja em estágios, vagas júnior ou projetos colaborativos — que me desafiem e me permitam crescer ao lado de pessoas inspiradoras.
+Também participei de maratonas de programação como o InterIF, onde desenvolvi ainda mais minhas habilidades de raciocínio lógico, trabalho em equipe e resolução de problemas. Gosto de transformar ideias em soluções reais e acredito no poder da tecnologia para impactar positivamente a vida das pessoas. Busco oportunidades como desenvolvedor web, vagas júnior ou projetos colaborativos que me desafiem e me permitam crescer ao lado de pessoas inspiradoras.
 
 <p align="left">
-  <a href="www.linkedin.com/in/josé-victor-souza-195a46369 target="_blank">
+  <a href="www.linkedin.com/in/josé-victor-souza-195a46369">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="35" />
   </a>
   &nbsp;&nbsp;
