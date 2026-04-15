@@ -48,26 +48,16 @@ Possuo experiência em projetos de Iniciação Científica voltados para o diagn
 
 ### Estatísticas e Desempenho
 
-<table border="0" align="center" width="100%">
-  <tr align="center">
-    <td width="50%">
-      <img src="https://github-readme-stats.vercel.app/api?username=jose6941&show_icons=true&theme=tokyonight&count_private=true" alt="Estatísticas Gerais" height="185" />
-    </td>
-    <td width="50%">
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jose6941&theme=tokyonight&layout=compact&langs_count=8" alt="Linguagens Mais Usadas" height="185" />
-    </td>
-  </tr>
-</table>
+<p align="center">
+  <img height="180" src="https://github-readme-stats.vercel.app/api?username=jose6941&show_icons=true&theme=tokyonight&count_private=true&cache_seconds=1800" alt="Estatísticas de José" />
+  &nbsp;
+  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jose6941&theme=tokyonight&layout=compact&langs_count=8&cache_seconds=1800" alt="Linguagens de José" />
+</p>
 
-<table border="0" align="center" width="100%">
-  <tr align="center">
-    <td width="50%">
-      <img src="https://github-readme-streak-stats.herokuapp.com/?user=jose6941&theme=tokyonight" alt="GitHub Streak" height="180" />
-    </td>
-    <td width="50%">
-      <img src="https://github-readme-activity-graph.vercel.app/graph?username=jose6941&theme=tokyo-night&area=true&hide_border=true" alt="Gráfico de Atividade" height="180" />
-    </td>
-  </tr>
-</table>
+<p align="center">
+  <img height="180" src="https://github-readme-streak-stats.herokuapp.com/?user=jose6941&theme=tokyonight" alt="Sequência de Contribuições" />
+  &nbsp;
+  <img height="180" src="https://github-readme-activity-graph.vercel.app/graph?username=jose6941&theme=tokyo-night&area=true&hide_border=true" alt="Gráfico de Atividade" />
+</p>
 
 ---
