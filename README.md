@@ -1,6 +1,6 @@
 # José Victor de Souza
 
-<img src="https://images.unsplash.com/photo-1517694712202-14dd9538aa97?ixlib=rb-1.2.1&auto=format&fit=crop&w=1350&h=300&q=80" width="100%" height="200" style="object-fit: cover;" alt="Banner Desenvolvimento Web" />
+<img src="https://images.unsplash.com/photo-1517694712202-14dd9538aa97?ixlib=rb-1.2.1&auto=format&fit=crop&w=1350&h=300&q=80" width="100%" height="300" style="object-fit: cover;" alt="Banner Desenvolvimento Web" />
 
 Desenvolvedor de Software | Graduando em Engenharia da Computação no IFSP Birigui
 Focado no desenvolvimento de sistemas web escaláveis e soluções em Inteligência Artificial.
@@ -92,21 +92,3 @@ Possuo experiência em projetos de Iniciação Científica voltados para o diagn
 
 </div>
 
----
-
-## Contribuições Recentes
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api/wakatime?username=jose6941&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9&border_radius=10&layout=compact" />
-
-</div>
-
----
-
-<div align="center">
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:24243e,50:302b63,100:0f0c29&height=120&section=footer&animation=fadeIn" width="100%"/>
-
-
-</div>
