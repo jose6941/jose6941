@@ -1,15 +1,15 @@
 # José Victor de Souza
 
-![Banner de Desenvolvimento Web](https://images.unsplash.com/photo-1498050108023-c5249f4df085?ixlib=rb-1.2.1&auto=format&fit=crop&w=1350&q=80)
+<img src="https://images.unsplash.com/photo-1517694712202-14dd9538aa97?ixlib=rb-1.2.1&auto=format&fit=crop&w=1350&h=300&q=80" width="100%" height="200" style="object-fit: cover;" alt="Banner Desenvolvimento Web" />
 
 Desenvolvedor de Software | Graduando em Engenharia da Computação no IFSP Birigui
-Especialista em ecossistemas Web (React, Next.js, Laravel) e Inteligência Artificial.
+Focado no desenvolvimento de sistemas web escaláveis e soluções em Inteligência Artificial.
 
 Sobre Mim
 
-Sou acadêmico de Engenharia da Computação, atualmente no 10º semestre, com sólida experiência no desenvolvimento de soluções tecnológicas integradas. Minha atuação profissional e acadêmica é pautada pela aplicação de tecnologias modernas para a resolução de problemas complexos, abrangendo desde a extração e manipulação de dados com Python até a arquitetura de interfaces de alto desempenho com React e Next.js.
+Sou estudante de Engenharia da Computação, atualmente no 10º semestre, com experiência no desenvolvimento de aplicações utilizando tecnologias modernas. Minha trajetória acadêmica e profissional é marcada pela construção de soluções que integram eficiência técnica e experiência do usuário, com ênfase no ecossistema JavaScript, PHP e Python.
 
-Possuo experiência prática em projetos de Iniciação Científica voltados para Inteligência Artificial, especificamente no diagnóstico de falhas em transformadores de potência utilizando redes neurais. Além disso, desenvolvo sistemas de visão computacional com OpenCV voltados para controle de acesso. Participante ativo de competições de programação, como o InterIF, busco constantemente o aprimoramento em algoritmos, lógica e arquitetura de sistemas.
+Possuo experiência em projetos de Iniciação Científica voltados para o diagnóstico de falhas em ativos elétricos via redes neurais e no desenvolvimento de sistemas de visão computacional. Minha participação em maratonas de programação como o InterIF reflete meu compromisso com a resolução de problemas complexos e a otimização de algoritmos.
 
 Contato e Conectividade
 
@@ -23,43 +23,34 @@ Contato e Conectividade
   </a>
 </p>
 
-Stack Tecnológica
+Linguagens e Tecnologias
 
-Proficiência em ferramentas e frameworks de mercado para desenvolvimento Full Stack e Ciência de Dados:
+<img align="left" alt="HTML" title="HTML" width="30px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" />
+<img align="left" alt="CSS" title="CSS" width="30px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" />
+<img align="left" alt="JavaScript" title="JavaScript" width="30px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" />
+<img align="left" alt="React" title="React" width="30px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" />
+<img align="left" alt="Laravel" title="Laravel" width="30px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/laravel/laravel-original.svg" />
+<img align="left" alt="Node.js" title="Node.js" width="30px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original.svg" />
+<img align="left" alt="Python" title="Python" width="30px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" />
+<img align="left" alt="Git" title="Git" width="30px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" />
 
-Linguagens: Python, JavaScript, TypeScript, PHP.
-Front-end: React.js, Next.js, Tailwind CSS.
-Back-end: Laravel, Node.js.
-Ciência de Dados e IA: OpenCV, Scrapy, Modelos Preditivos (XGBoost, TabNet).
-DevOps e Ferramentas: Git, GitHub, Integração de APIs.
+<br/>
+<br/>
 
-Principais Projetos em Destaque
+Estatísticas e Desempenho
 
-Plataforma de E-commerce Full Stack: Desenvolvimento de uma aplicação escalável utilizando o ecossistema Next.js, TypeScript e Tailwind CSS, com foco em performance e experiência do usuário.
-Sistema de Reconhecimento Facial: Implementação de algoritmos de visão computacional (LBPH) em ambiente Raspberry Pi para controle de acesso de baixo custo.
-Diagnóstico Preditivo (IA): Projeto de pesquisa utilizando Redes Neurais Artificiais e Análise de Gases Dissolvidos (DGA) para identificação de falhas em ativos elétricos.
-
-Métricas e Desempenho
-
-As estatísticas abaixo refletem minha produtividade e o domínio técnico aplicado nos repositórios públicos.
-
-<p align="center">
-  <img 
-    height="195" 
-    src="https://github-readme-stats.vercel.app/api?username=jose6941&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" 
-    alt="Estatísticas Gerais"
-  />
-  <img 
-    height="195" 
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=jose6941&theme=tokyonight&layout=compact&langs_count=8" 
-    alt="Linguagens mais utilizadas"
-  />
-</p>
+As métricas abaixo consolidam minha produtividade técnica e o domínio das tecnologias aplicadas em meus repositórios.
 
 <p align="center">
   <img 
     height="180" 
-    src="https://github-readme-streak-stats.herokuapp.com/?user=jose6941&theme=tokyonight" 
-    alt="Sequência de Contribuições"
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=jose6941&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9" 
+    alt="Linguagens mais utilizadas"
+  />
+  &nbsp;&nbsp;
+  <img 
+    height="180" 
+    src="https://github-readme-streak-stats.herokuapp.com/?user=jose6941&theme=tokyonight&custom_title=Streaks" 
+    alt="Sequência de contribuições"
   />
 </p>
