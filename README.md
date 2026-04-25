@@ -48,12 +48,6 @@ Possuo experiência em projetos de Iniciação Científica voltados para o diagn
 ---
 
 ### Estatísticas e Desempenho
-<br/>
-<div align="center">
-  <h3>Statistics</h3>
-</div>
-
-<br>
 
 <table align="center">
   <tr>
@@ -61,7 +55,7 @@ Possuo experiência em projetos de Iniciação Científica voltados para o diagn
       <img src="https://streak-stats.demolab.com?user=jose6941&locale=pt-br&mode=daily&theme=dark&hide_border=false&border_radius=5&background=151B23&stroke=ffffff&ring=ffffff&fire=ffffff&currStreakNum=ffffff&sideNums=ffffff&currStreakLabel=ffffff&sideLabels=ffffff&dates=ffffff" width="400"/>
     </td>
     <td>
-      <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=jose6941s&show_icons=true&theme=dark&hide_border=false&bg_color=151B23&title_color=ffffff&text_color=ffffff&icon_color=ffffff" width="400"/>
+      <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=jose6941&show_icons=true&theme=dark&hide_border=false&bg_color=151B23&title_color=ffffff&text_color=ffffff&icon_color=ffffff" width="400"/>
     </td>
   </tr>
 </table>
